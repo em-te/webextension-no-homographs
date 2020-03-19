@@ -1,0 +1,1 @@
+# webextension-no-homographs
