@@ -1,0 +1,77 @@
+{
+  "extensionName": {
+    "message": "호모 그래프 없음"
+  },
+
+  "extensionDescription": {
+    "message": "피싱을 방지하기 위해 현재 웹 사이트의 도메인 이름에서 호모 그래프를 확인합니다."
+  },
+
+  "pageActionTitle": {
+    "message": "호모 그래프 열기"
+  },
+
+  "browserActionTitle": {
+    "message": "호모 그래프 없음"
+  },
+
+  "popupHeader": {
+    "message": "비슷한 이름"
+  },
+
+  "popupCurrentCapt": {
+    "message": "현재 웹 사이트는 :"
+  },
+
+  "popupTargetCapt": {
+    "message": "다음과 유사합니다 :"
+  },
+
+  "popupLinks": {
+    "message": "다음을 원하십니까 :"
+  },
+
+  "popupAddTo1": {
+    "message": "허용 목록에 "
+  },
+
+  "popupAddTo2": {
+    "message": " 추가"
+  },
+
+  "popupViewList": {
+    "message": "보호 된 도메인 이름 편집"
+  },
+
+  "promptMsg1": {
+    "message": "조심하십시오 :"
+  },
+
+  "promptMsg2": {
+    "message": "- 또는 -"
+  },
+
+  "promptMsg3": {
+    "message": "계속하려면 아무 것도 입력하십시오."
+  },
+
+  "optionsProtHeader": {
+    "message": "보호 된 도메인 이름"
+  },
+
+  "optionsProtCapt": {
+    "message": "방문한 모든 웹 사이트는 다음 도메인 이름과 유사한 지 확인합니다 ："
+  },
+
+  "optionsWhiteHeader": {
+    "message": "화이트리스트의 도메인 이름"
+  },
+
+  "optionsWhiteCapt": {
+    "message": "다음 도메인 이름의 웹 사이트는 확인되지 않습니다 :"
+  },
+
+  "optionsSaveBtn": {
+    "message": "저장"
+  }
+}

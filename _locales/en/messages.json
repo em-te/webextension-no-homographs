@@ -1,0 +1,77 @@
+{
+  "extensionName": {
+    "message": "No Homo-Graph"
+  },
+
+  "extensionDescription": {
+    "message": "Checks for homo-graphs in the domain name of the current website to prevent phishing."
+  },
+
+  "pageActionTitle": {
+    "message": "See homo-graph"
+  },
+
+  "browserActionTitle": {
+    "message": "No Homo-Graph"
+  },
+
+  "popupHeader": {
+    "message": "Similar Name"
+  },
+
+  "popupCurrentCapt": {
+    "message": "The current website is:"
+  },
+
+  "popupTargetCapt": {
+    "message": "Which is similar to:"
+  },
+
+  "popupLinks": {
+    "message": "Would you like to:"
+  },
+
+  "popupAddTo1": {
+    "message": "Add"
+  },
+
+  "popupAddTo2": {
+    "message": "to your whitelist"
+  },
+
+  "popupViewList": {
+    "message": "Edit your Protected Domains"
+  },
+
+  "promptMsg1": {
+    "message": "Be careful:"
+  },
+
+  "promptMsg2": {
+    "message": "- or -"
+  },
+
+  "promptMsg3": {
+    "message": "Type anything to continue."
+  },
+
+  "optionsProtHeader": {
+    "message": "Protected Domains"
+  },
+
+  "optionsProtCapt": {
+    "message": "All websites you visit will be checked for similarities to these domains:"
+  },
+
+  "optionsWhiteHeader": {
+    "message": "White-Listed Domains"
+  },
+
+  "optionsWhiteCapt": {
+    "message": "Websites from these domains will not be checked:"
+  },
+
+  "optionsSaveBtn": {
+    "message": "Save"
+  }
+}

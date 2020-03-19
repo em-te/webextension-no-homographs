@@ -1,0 +1,41 @@
+body {font: normal 10pt Helvetica,Arial; background: #fff; color: #000; min-width: 18em}
+body, h1, div, ul, li {margin: 0; padding: 0; list-style: none}
+#container {
+  padding: 5%;
+  line-height: 1.5em;
+}
+h1 {
+  font: normal 1.5em Helvetica,Arial;
+  padding-bottom: 0.4em;
+  margin-bottom: 0.4em;
+  border-bottom: 1px solid #ddd;
+}
+ul {color: #bbb}
+li {padding-left: 1em; margin-top: 0.3em}
+a {color: #99f; text-decoration: underline; cursor: pointer}
+a:hover {color: #00f}
+addr {
+  display: block;
+  font-family: consolas, courier;
+  font-size: 1.3em;
+  letter-spacing: 1px;
+  border:1px solid #ff8;
+  background: #ffc;
+  padding: 0.2em 0.5em;
+  margin: 0.5em 0 0.7em 0;
+}
+#exit {
+  background: transparent;
+  color: #ccc;
+  border: 0;
+  border-radius: 4px;
+  padding: 0.2em 0.3em;
+  margin: 0;
+  float: right;
+  font: normal 12pt Helvetica,Arial;
+}
+#exit:focus,
+#exit:active {
+  background: #d00;
+  color: #fff;
+}

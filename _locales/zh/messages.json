@@ -1,0 +1,77 @@
+{
+  "extensionName": {
+    "message": "不要同形字"
+  },
+
+  "extensionDescription": {
+    "message": "檢查當前網站域名中的同形異義字，以防止網絡釣魚。"
+  },
+
+  "pageActionTitle": {
+    "message": "看同形字"
+  },
+
+  "browserActionTitle": {
+    "message": "不要同形字"
+  },
+
+  "popupHeader": {
+    "message": "相似的域名"
+  },
+
+  "popupCurrentCapt": {
+    "message": "當前網站是:"
+  },
+
+  "popupTargetCapt": {
+    "message": "類似於:"
+  },
+
+  "popupLinks": {
+    "message": "您是否想："
+  },
+
+  "popupAddTo1": {
+    "message": "將"
+  },
+
+  "popupAddTo2": {
+    "message": "添加到您的白名單"
+  },
+
+  "popupViewList": {
+    "message": "編輯您的受保護域名"
+  },
+
+  "promptMsg1": {
+    "message": "小心:"
+  },
+
+  "promptMsg2": {
+    "message": "- 或 -"
+  },
+
+  "promptMsg3": {
+    "message": "輸入任何內容以繼續."
+  },
+
+  "optionsProtHeader": {
+    "message": "受保護的域名"
+  },
+
+  "optionsProtCapt": {
+    "message": "您訪問的所有網站都將被檢查與以下域名的相似性："
+  },
+
+  "optionsWhiteHeader": {
+    "message": "域名白名單"
+  },
+
+  "optionsWhiteCapt": {
+    "message": "來自以下域名的網站將不會被檢查:"
+  },
+
+  "optionsSaveBtn": {
+    "message": "保存"
+  }
+}

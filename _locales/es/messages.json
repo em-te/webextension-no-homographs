@@ -1,0 +1,77 @@
+{
+  "extensionName": {
+    "message": "Sin Homógrafo"
+  },
+
+  "extensionDescription": {
+    "message": "Busca homógrafos en el nombre de dominio del sitio web actual para evitar el phishing."
+  },
+
+  "pageActionTitle": {
+    "message": "homógrafo abierto"
+  },
+
+  "browserActionTitle": {
+    "message": "Sin homógrafo"
+  },
+
+  "popupHeader": {
+    "message": "Nombre Similar"
+  },
+
+  "popupCurrentCapt": {
+    "message": "El sitio web actual es:"
+  },
+
+  "popupTargetCapt": {
+    "message": "Que es similar a:"
+  },
+
+  "popupLinks": {
+    "message": "¿Quieres:"
+  },
+
+  "popupAddTo1": {
+    "message": "Agrega "
+  },
+
+  "popupAddTo2": {
+    "message": " a tu lista blanca"
+  },
+
+  "popupViewList": {
+    "message": "edite sus nombres de dominio protegidos"
+  },
+
+  "promptMsg1": {
+    "message": "Tenga cuidado:"
+  },
+
+  "promptMsg2": {
+    "message": "- o -"
+  },
+
+  "promptMsg3": {
+    "message": "Escriba cualquier cosa para continuar."
+  },
+
+  "optionsProtHeader": {
+    "message": "Nombres de dominio protegidos"
+  },
+
+  "optionsProtCapt": {
+    "message": "Se verificará que todos los sitios web que visite tengan similitudes con estos nombres de dominio:"
+  },
+
+  "optionsWhiteHeader": {
+    "message": "Nombres de dominio en su lista blanca"
+  },
+
+  "optionsWhiteCapt": {
+    "message": "Los sitios web de estos nombres de dominio no se comprobarán:"
+  },
+
+  "optionsSaveBtn": {
+    "message": "Guardar"
+  }
+}

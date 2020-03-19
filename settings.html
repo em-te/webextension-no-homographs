@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name=viewport content="width=device-width">
+  <link rel="stylesheet" href="settings.css">
+</head>
+<body>
+  <div id="container">
+    <h1>&#128272; <span i18n>optionsProtHeader</span></h1>
+
+    <div i18n>optionsProtCapt</div>
+
+    <textarea id="proList" type=url autocorrect=off autocapitalize=off spellcheck=false 
+    placeholder="e.g., westernunion.com">google.com
+myetherwallet.com
+paypal.com
+secure.moneygram.com
+westernunion.com
+yahoo.com</textarea>
+
+    <h1>&#128077; <span i18n>optionsWhiteHeader</span></h1>
+
+    <div i18n>optionsWhiteCapt</div>
+
+    <textarea id="whiteList" type=url autocorrect=off autocapitalize=off spellcheck=false 
+    placeholder="e.g., westernunit.com"></textarea>
+
+    <div class="toolbar">
+      <button type=button id=save disabled>&#128190; <span i18n>optionsSaveBtn</span></button>
+    </div>
+
+  </div>
+  <script src="punycode.js"></script>
+  <script src="settings.js"></script>
+</body>
+</html>

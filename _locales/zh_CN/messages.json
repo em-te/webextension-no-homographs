@@ -1,0 +1,77 @@
+{
+  "extensionName": {
+    "message": "不要同形字"
+  },
+
+  "extensionDescription": {
+    "message": "检查当前网站域名中的同形异义字，以防止网络钓鱼。"
+  },
+
+  "pageActionTitle": {
+    "message": "看同形字"
+  },
+
+  "browserActionTitle": {
+    "message": "不要同形字"
+  },
+
+  "popupHeader": {
+    "message": "相似的域名"
+  },
+
+  "popupCurrentCapt": {
+    "message": "当前网站是:"
+  },
+
+  "popupTargetCapt": {
+    "message": "类似于:"
+  },
+
+  "popupLinks": {
+    "message": "您是否想："
+  },
+
+  "popupAddTo1": {
+    "message": "将"
+  },
+
+  "popupAddTo2": {
+    "message": "添加到您的白名单"
+  },
+
+  "popupViewList": {
+    "message": "编辑您的受保护域名"
+  },
+
+  "promptMsg1": {
+    "message": "小心:"
+  },
+
+  "promptMsg2": {
+    "message": "- 或 -"
+  },
+
+  "promptMsg3": {
+    "message": "输入任何内容以继续."
+  },
+
+  "optionsProtHeader": {
+    "message": "受保护的域名"
+  },
+
+  "optionsProtCapt": {
+    "message": "您访问的所有网站都将被检查与以下域名的相似性："
+  },
+
+  "optionsWhiteHeader": {
+    "message": "域名白名单"
+  },
+
+  "optionsWhiteCapt": {
+    "message": "来自以下域名的网站将不会被检查:"
+  },
+
+  "optionsSaveBtn": {
+    "message": "保存"
+  }
+}

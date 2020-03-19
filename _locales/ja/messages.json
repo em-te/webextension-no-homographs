@@ -1,0 +1,77 @@
+{
+  "extensionName": {
+    "message": "ホモグラフなし"
+  },
+
+  "extensionDescription": {
+    "message": "フィッシングを防ぐために、現在のWebサイトのドメイン名で同形異義語をチェックします。"
+  },
+
+  "pageActionTitle": {
+    "message": "ホモグラフを開く"
+  },
+
+  "browserActionTitle": {
+    "message": "ホモグラフなし。"
+  },
+
+  "popupHeader": {
+    "message": "類似名"
+  },
+
+  "popupCurrentCapt": {
+    "message": "現在のWebサイトは次のとおりです:"
+  },
+
+  "popupTargetCapt": {
+    "message": "次のようなものです:"
+  },
+
+  "popupLinks": {
+    "message": "以下を行いますか？"
+  },
+
+  "popupAddTo1": {
+    "message": ""
+  },
+
+  "popupAddTo2": {
+    "message": " をホワイトリストに追加します"
+  },
+
+  "popupViewList": {
+    "message": "保護されたドメイン名の編集"
+  },
+
+  "promptMsg1": {
+    "message": "注意してください："
+  },
+
+  "promptMsg2": {
+    "message": "- または -"
+  },
+
+  "promptMsg3": {
+    "message": "続行するには何でも入力します。"
+  },
+
+  "optionsProtHeader": {
+    "message": "保護されたドメイン名"
+  },
+
+  "optionsProtCapt": {
+    "message": "アクセスするすべてのWebサイトで、これらのドメイン名との類似性がチェックされます："
+  },
+
+  "optionsWhiteHeader": {
+    "message": "ホワイトリストのドメイン名"
+  },
+
+  "optionsWhiteCapt": {
+    "message": "これらのドメイン名のWebサイトはチェックされません:"
+  },
+
+  "optionsSaveBtn": {
+    "message": "保存"
+  }
+}

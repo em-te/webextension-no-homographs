@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name=viewport content="width=device-width">
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div id="container">
+    <button id=exit>&times;</button>
+    <h1>&#9888;&#65039; <span i18n>popupHeader</span></h1>
+
+    <span i18n>popupCurrentCapt</span>
+    <addr id="thisUrl">domain.tld</addr>
+    <span i18n>popupTargetCapt</span>
+    <addr id="thatUrl">domain.tld</addr>
+
+    <ul><span i18n>popupLinks</span>
+      <li><a id="addurl"><span i18n>popupAddTo1</span> &quot;<span id="thisUrl2">domain.tld</span>&quot; <span i18n>popupAddTo2</span></a>
+      <li><a id="viewlist" i18n>popupViewList</a>
+    </ul>
+
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

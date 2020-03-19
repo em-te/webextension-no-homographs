@@ -1,0 +1,77 @@
+{
+  "extensionName": {
+    "message": "Kein Homo-graph"
+  },
+
+  "extensionDescription": {
+    "message": "Überprüft den Domainnamen der aktuellen Website auf Homographen, um Phishing zu verhindern."
+  },
+
+  "pageActionTitle": {
+    "message": "Homograph öffnen"
+  },
+
+  "browserActionTitle": {
+    "message": "Kein Homo-graph"
+  },
+
+  "popupHeader": {
+    "message": "Ähnlicher Name"
+  },
+
+  "popupCurrentCapt": {
+    "message": "Die aktuelle Website lautet:"
+  },
+
+  "popupTargetCapt": {
+    "message": "Ähnlich wie:"
+  },
+
+  "popupLinks": {
+    "message": "Möchtest du:"
+  },
+
+  "popupAddTo1": {
+    "message": "Fügen Sie Ihrer Whitelist "
+  },
+
+  "popupAddTo2": {
+    "message": " hinzu"
+  },
+
+  "popupViewList": {
+    "message": "Bearbeiten Sie Ihre geschützten Domänennamen"
+  },
+
+  "promptMsg1": {
+    "message": "Seien Sie vorsichtig:"
+  },
+
+  "promptMsg2": {
+    "message": "- oder -"
+  },
+
+  "promptMsg3": {
+    "message": "Geben Sie etwas ein, um fortzufahren."
+  },
+
+  "optionsProtHeader": {
+    "message": "Geschützte Domänennamen"
+  },
+
+  "optionsProtCapt": {
+    "message": "Alle von Ihnen besuchten Websites werden auf Ähnlichkeiten mit diesen Domainnamen überprüft:"
+  },
+
+  "optionsWhiteHeader": {
+    "message": "Domainnamen in Ihrer Whitelist"
+  },
+
+  "optionsWhiteCapt": {
+    "message": "Websites von diesen Domainnamen werden nicht überprüft:"
+  },
+
+  "optionsSaveBtn": {
+    "message": "Speichern"
+  }
+}

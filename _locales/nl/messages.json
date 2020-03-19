@@ -1,0 +1,77 @@
+{
+  "extensionName": {
+    "message": "Geen Homo-graaf"
+  },
+
+  "extensionDescription": {
+    "message": "Controleert op homografieën in de domeinnaam van de huidige website om phishing te voorkomen."
+  },
+
+  "pageActionTitle": {
+    "message": "Open homo-graaf"
+  },
+
+  "browserActionTitle": {
+    "message": "Geen Homo-graaf"
+  },
+
+  "popupHeader": {
+    "message": "Vergelijkbare Naam"
+  },
+
+  "popupCurrentCapt": {
+    "message": "De huidige website is:"
+  },
+
+  "popupTargetCapt": {
+    "message": "vergelijkbaar met:"
+  },
+
+  "popupLinks": {
+    "message": "Wilt u:"
+  },
+
+  "popupAddTo1": {
+    "message": "Voeg "
+  },
+
+  "popupAddTo2": {
+    "message": " toe aan uw witte lijst"
+  },
+
+  "popupViewList": {
+    "message": "Bewerk uw beschermde domeinnamen"
+  },
+
+  "promptMsg1": {
+    "message": "Wees voorzichtig:"
+  },
+
+  "promptMsg2": {
+    "message": "- of -"
+  },
+
+  "promptMsg3": {
+    "message": "Typ iets om door te gaan."
+  },
+
+  "optionsProtHeader": {
+    "message": "Beschermde domeinnamen"
+  },
+
+  "optionsProtCapt": {
+    "message": "Alle websites die u bezoekt, worden gecontroleerd op overeenkomsten met deze domeinnamen:"
+  },
+
+  "optionsWhiteHeader": {
+    "message": "Domeinnamen in uw witte lijst"
+  },
+
+  "optionsWhiteCapt": {
+    "message": "Websites van deze domeinnamen worden niet gecontroleerd:"
+  },
+
+  "optionsSaveBtn": {
+    "message": "Opslaan"
+  }
+}

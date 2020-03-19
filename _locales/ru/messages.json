@@ -1,0 +1,77 @@
+{
+  "extensionName": {
+    "message": "нет гомографа"
+  },
+
+  "extensionDescription": {
+    "message": "Проверяет наличие омограмм в доменном имени текущего веб-сайта для предотвращения фишинга."
+  },
+
+  "pageActionTitle": {
+    "message": "открыть гомографию"
+  },
+
+  "browserActionTitle": {
+    "message": "без гомографии"
+  },
+
+  "popupHeader": {
+    "message": "похожее имя"
+  },
+
+  "popupCurrentCapt": {
+    "message": "Текущий веб-сайт:"
+  },
+
+  "popupTargetCapt": {
+    "message": "который похож на:"
+  },
+
+  "popupLinks": {
+    "message": "Вы хотите:"
+  },
+
+  "popupAddTo1": {
+    "message": "добавьте "
+  },
+
+  "popupAddTo2": {
+    "message": " в свой белый список"
+  },
+
+  "popupViewList": {
+    "message": "редактируйте ваши защищенные доменные имена"
+  },
+
+  "promptMsg1": {
+    "message": "будьте осторожны:"
+  },
+
+  "promptMsg2": {
+    "message": "- или -"
+  },
+
+  "promptMsg3": {
+    "message": "введите что-нибудь, чтобы продолжить."
+  },
+
+  "optionsProtHeader": {
+    "message": "Защищенные доменные имена"
+  },
+
+  "optionsProtCapt": {
+    "message": "Все посещаемые вами сайты будут проверены на сходство с этими доменными именами:"
+  },
+
+  "optionsWhiteHeader": {
+    "message": "доменные имена в вашем белом списке"
+  },
+
+  "optionsWhiteCapt": {
+    "message": " сайты с этими доменными именами не будут проверяться:"
+  },
+
+  "optionsSaveBtn": {
+    "message": "Сохранить"
+  }
+}

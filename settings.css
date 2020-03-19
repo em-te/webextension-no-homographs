@@ -1,0 +1,43 @@
+body {font: normal 10pt Helvetica,Arial; background: #fff; color: #000}
+body, h1, div, ul, li {margin: 0; padding: 0}
+h1 {
+  font: normal 1.5em Helvetica,Arial;
+  padding: 0.4em 0;
+  margin: 1% 0;
+}
+ul, li {list-style: none}
+ul {color: #bbb}
+li {padding-left: 1em}
+a {color: #88f; text-decoration: underline; cursor: pointer}
+
+#container {
+  margin: 5%;
+  line-height: 1.5em;
+}
+@media screen and (min-width:700px) {
+  #container {margin: 1em auto; max-width: 650px}
+}
+addr {
+  display: block;
+  font-family: consolas, monospace;
+  font-size: 1.3em;
+  letter-spacing: 1px;
+  border:1px solid #ff8;
+  background: #ffc;
+  padding: 0.2em 0.5em;
+  margin: 0.5em 0 0.7em 0;
+}
+textarea {
+  width: 98%;
+  height: 7em;
+  font-family: consolas, monospace;
+  margin: 0.5em 0;
+}
+button:disabled {opacity: 0.8}
+.toolbar {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 0 0 auto;
+}
